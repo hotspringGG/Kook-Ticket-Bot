@@ -1,7 +1,7 @@
 # Kook-Ticket-Bot
 ## Forked from https://github.com/musnows/Kook-Ticket-Bot
 
-![commit](https://img.shields.io/github/last-commit/hotspringGG/Kook-Ticket-Bot) [![khl server](https://www.kaiheila.cn/api/v3/badge/guild?guild_id=3986996654014459&style=0)](https://kook.top/gpbTwZ)
+![commit](https://img.shields.io/github/last-commit/hotspringGG/Kook-Ticket-Bot)
 
 A ticket bot for KOOK, **自托管**表单/工单系统机器人
 
